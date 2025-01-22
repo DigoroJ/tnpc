@@ -333,6 +333,10 @@ a:focus {
   margin-top: 5px;
 }
 
+.service_section .img-box img {
+  height: 55px;
+}
+
 .service_section .box a {
   padding: 6px 25px;
   border: 1px solid #e93f1a;
